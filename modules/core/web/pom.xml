@@ -14,7 +14,7 @@
 
 	<build>
 	
-		<finalName>re</finalName>
+		<finalName>ccms</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>

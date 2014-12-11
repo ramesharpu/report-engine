@@ -84,7 +84,7 @@ xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j
 			<url-pattern>/pages/*</url-pattern>
 		</web-resource-collection> 
 		<user-data-constraint>
-			<transport-guarantee>CONFIDENTIAL</transport-guarantee> 
+			<transport-guarantee>NONE</transport-guarantee> 
 		</user-data-constraint> 
 	</security-constraint>
 
