@@ -24,7 +24,7 @@ if(buttonName == null)
 	}else{
 		%>
 		<%@ include file="loginHead.jsp"%>
-		<tr><td align="center"><font face="verdana,arial" size=5>Report Engine</font></td></tr>
+		<tr><td align="center"><font face="verdana,arial" size=5>Centralized CPU Monitoring System</font></td></tr>
 		<tr><td>
 		<div class="ui-widget">
 			<div class="ui-state-error ui-corner-all" style="padding: 0pt 0.7em;"> 
@@ -39,7 +39,7 @@ if(buttonName == null)
 }else  if(buttonName.equalsIgnoreCase("Create Account")){
 	%>
 	<%@ include file="loginHead.jsp"%>
-	<tr><td align="center"><font face="verdana,arial" size=5>Report Engine - Create Account</font></td></tr>
+	<tr><td align="center"><font face="verdana,arial" size=5>Centralized CPU Monitoring System - Create Account</font></td></tr>
 	<tr><td>
 	</td></tr>
 	<%@ include file="NewAccount.jsp"%>
@@ -48,7 +48,7 @@ if(buttonName == null)
 }else  if(buttonName.equalsIgnoreCase("Forget Password/ID")){
 	%>
 	<%@ include file="loginHead.jsp"%>
-	<tr><td align="center"><font face="verdana,arial" size=5>Report Engine - Forget Password</font></td></tr>
+	<tr><td align="center"><font face="verdana,arial" size=5>Centralized CPU Monitoring System - Forget Password</font></td></tr>
 	<tr><td>
 	</td></tr>
 	<%@ include file="ForgetPassword.jsp"%>

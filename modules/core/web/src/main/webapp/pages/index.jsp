@@ -4,7 +4,7 @@
  
 <div id="dt_page">
 <div id="container">
-Hi, <%=session.getAttribute(Keys.SESSION_USER_ID)%> Welcome to Report Engine!
+Hi, <%=session.getAttribute(Keys.SESSION_USER_ID)%> Welcome to Centralized CPU Monitoring System!
 </div>
 </div>
 

@@ -3,7 +3,7 @@
 xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:web="http://java.sun.com/xml/ns/j2ee/web-app_2_5.xsd" 
 xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
 
-	<display-name>Report Engine 1.0</display-name>
+	<display-name>Centralized CPU Monitoring System</display-name>
 
 	<context-param>
 		<param-name>reportengine.home.dir</param-name>

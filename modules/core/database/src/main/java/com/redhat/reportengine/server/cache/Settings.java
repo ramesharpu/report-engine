@@ -9,7 +9,7 @@ package com.redhat.reportengine.server.cache;
  * Mar 21, 2012
  */
 public class Settings {
-	private static String appTitle = "Report Engine";
+	private static String appTitle = "Centralized CPU Monitoring System";
 	private static String appVersion;
 	private static String appBuildId;
 	
